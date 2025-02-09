@@ -1,5 +1,5 @@
 {
-  "time": "20250209212050",
+  "time": "20250209213359",
   "url": "https://github.com/babalae/bettergi-scripts-list/archive/refs/heads/main.zip",
   "file": "repo.json",
   "indexes": [
@@ -9873,6 +9873,15 @@
               ]
             }
           ]
+        },
+        {
+          "name": "隙境原体.json",
+          "type": "file",
+          "hash": "9f93ad3cf1e9c4b5f6a839ddfc81514d517a742f",
+          "version": "9f93ad3",
+          "author": "momo",
+          "description": "",
+          "tags": []
         },
         {
           "name": "香辛果",
